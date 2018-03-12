@@ -1,3 +1,3 @@
 # IndividualHomework
 My first repo
-This will make conflict!
+We resolved the conflict!
